@@ -2,7 +2,9 @@ PolymorphismTuts\C.class
 PolymorphismTuts\Calc.class
 com\VedantJavaRevision\abstractionTuts\Parent.class
 PolymorphismTuts\B.class
+com\VedantJavaRevision\A.class
 com\VedantJavaRevision\EncapsulationTut\EncapsulationTuts.class
+com\VedantJavaRevision\FinalKeywordTuts.class
 com\VedantJavaRevision\InsertionSort.class
 com\VedantJavaRevision\BubbleSortTuts.class
 com\VedantJavaRevision\OuickSortTut.class
