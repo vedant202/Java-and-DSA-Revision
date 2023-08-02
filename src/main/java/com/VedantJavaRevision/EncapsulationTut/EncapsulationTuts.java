@@ -40,3 +40,4 @@ public class EncapsulationTuts {
         System.out.println("name "+obj.getName()+" age "+obj.getAge());
     }
 }
+ 
