@@ -6,7 +6,10 @@ com\VedantJavaRevision\EncapsulationTut\EncapsulationTuts.class
 com\VedantJavaRevision\FinalKeywordTuts.class
 com\VedantJavaRevision\InsertionSort.class
 com\VedantJavaRevision\OuickSortTut.class
+ApiRequestTuts\GetData.class
 com\VedantJavaRevision\ThreadsTuts\Tuts1.class
+com\VedantJavaRevision\JavaCollectionsTuts\SetTuts.class
+ApiRequestTuts\GetApiReqTut.class
 com\VedantJavaRevision\printArray.class
 com\VedantJavaRevision\ThreadsTuts\A.class
 PolymorphismTuts\AdvaCalc.class
