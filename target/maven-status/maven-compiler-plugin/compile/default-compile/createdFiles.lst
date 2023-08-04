@@ -24,6 +24,8 @@ com\VedantJavaRevision\A.class
 com\VedantJavaRevision\BubbleSortTuts.class
 com\VedantJavaRevision\SelectionSort.class
 com\VedantJavaRevision\abstractionTuts\AbstractTuts.class
+ApiRequestTuts\NewsObjList.class
+ApiRequestTuts\NewsObj.class
 com\VedantJavaRevision\abstractionTuts\Child.class
 PolymorphismTuts\A.class
 com\VedantJavaRevision\AdvaCalc.class
