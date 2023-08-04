@@ -2,6 +2,7 @@ PolymorphismTuts\Calc.class
 com\VedantJavaRevision\Calc.class
 com\VedantJavaRevision\abstractionTuts\Parent.class
 PolymorphismTuts\B.class
+com\VedantJavaRevision\SearchingAlgorithTuts\BinarySearchAlgorithm.class
 com\VedantJavaRevision\EncapsulationTut\EncapsulationTuts.class
 com\VedantJavaRevision\FinalKeywordTuts.class
 com\VedantJavaRevision\InsertionSort.class
@@ -13,6 +14,7 @@ ApiRequestTuts\GetApiReqTut.class
 com\VedantJavaRevision\printArray.class
 com\VedantJavaRevision\ThreadsTuts\A.class
 PolymorphismTuts\AdvaCalc.class
+JavaJDBCTuts\Tuts1.class
 com\VedantJavaRevision\ThreadsTuts\Counter.class
 com\VedantJavaRevision\ThreadsTuts\RaceCondition.class
 com\VedantJavaRevision\EncapsulationTut\Human.class
@@ -22,6 +24,7 @@ com\VedantJavaRevision\JavaRevision.class
 PolymorphismTuts\C.class
 com\VedantJavaRevision\A.class
 com\VedantJavaRevision\BubbleSortTuts.class
+com\VedantJavaRevision\FileHandlingJava\FileTuts1.class
 com\VedantJavaRevision\SelectionSort.class
 com\VedantJavaRevision\abstractionTuts\AbstractTuts.class
 ApiRequestTuts\NewsObjList.class
