@@ -388,7 +388,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Ix1WQNFTEe6Q-8_RegLKKg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_XkSgkObhEe6aYJDAadvzJg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_H_sJ59FTEe6Q-8_RegLKKg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_wXyGQGBtEe-B0uwpkrq5ig" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_H_sJ59FTEe6Q-8_RegLKKg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Ix1WQdFTEe6Q-8_RegLKKg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -422,7 +422,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Ix3LcNFTEe6Q-8_RegLKKg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_XkXZEObhEe6aYJDAadvzJg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_H_sJitFTEe6Q-8_RegLKKg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_wX6pIGBtEe-B0uwpkrq5ig" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_H_sJitFTEe6Q-8_RegLKKg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Ix3LcdFTEe6Q-8_RegLKKg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1080,6 +1080,7 @@
           <children xmi:id="_H__pxdFTEe6Q-8_RegLKKg" elementId="org.eclipse.wst.html.core.htmlsource" name="Editing HTML Source" description="Editing HTML Source"/>
           <children xmi:id="_H__pzNFTEe6Q-8_RegLKKg" elementId="org.eclipse.wst.xml.dependencies" name="XML Source Dependencies" description="XML Source Dependencies"/>
           <children xmi:id="_H__p0dFTEe6Q-8_RegLKKg" elementId="org.eclipse.wst.html.occurrences" name="HTML Source Occurrences" description="HTML Source Occurrences"/>
+          <children xmi:id="_sucoEGBtEe-B0uwpkrq5ig" elementId="org.eclipse.wst.json.core.jsonsource" name="%scope.structured.text.editor.json.name" description="%scope.structured.text.editor.json.description"/>
         </children>
         <children xmi:id="_H__pq9FTEe6Q-8_RegLKKg" elementId="org.eclipse.ant.ui.AntEditorScope" name="Editing Ant Buildfiles" description="Editing Ant Buildfiles Context"/>
         <children xmi:id="_H__prNFTEe6Q-8_RegLKKg" elementId="org.eclipse.emf.codegen.ui.jetEditorScope" name="Editing JET Source" description="Editing JET Source Context"/>
@@ -3023,6 +3024,8 @@
   <commands xmi:id="_IqxE8dFTEe6Q-8_RegLKKg" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.context.ui.actions.tasklist.focus" commandName="Focus on Workweek" description="Focus on Workweek" category="_H_i9ytFTEe6Q-8_RegLKKg"/>
   <commands xmi:id="_IqxsANFTEe6Q-8_RegLKKg" elementId="AUTOGEN:::org.eclipse.pde.ui.logViewActions/org.eclipse.jdt.debug.ui.LogViewActions.showStackTrace" commandName="Show Stack Trace in Console View" description="Show Stack Trace in Console View" category="_H_i9ytFTEe6Q-8_RegLKKg"/>
   <commands xmi:id="_IqxsAdFTEe6Q-8_RegLKKg" elementId="AUTOGEN:::org.eclipse.ui.articles.action.contribution.view/org.eclipse.wst.wsi.ui.internal.actions.actionDelegates.ValidateWSIProfileActionDelegate" commandName="WS-I Profile Validator" description="Validate WS-I Message Log File" category="_H_i9ytFTEe6Q-8_RegLKKg"/>
+  <commands xmi:id="_v5IbYGBtEe-B0uwpkrq5ig" elementId="AUTOGEN:::org.eclipse.wst.json.core.jsonsource.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="%AddBookmark.label" category="_H_i9ytFTEe6Q-8_RegLKKg"/>
+  <commands xmi:id="_v5UooGBtEe-B0uwpkrq5ig" elementId="AUTOGEN:::org.eclipse.wst.json.core.jsonsource.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="%SelectRuler.label" category="_H_i9ytFTEe6Q-8_RegLKKg"/>
   <addons xmi:id="_H-pl3tFTEe6Q-8_RegLKKg" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
   <addons xmi:id="_H-pl39FTEe6Q-8_RegLKKg" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
   <addons xmi:id="_H-pl4NFTEe6Q-8_RegLKKg" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
